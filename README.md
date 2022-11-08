@@ -30,14 +30,12 @@ For comprehensive rules of darts, visit the
 
 ### Terminology
 
-Single score - dart lands in black or cream section.
-Double Score - dart lands in outer ring of segments.
-Triple Score - dart lands in inner ring of segments.
-
-Outer Bull - dart lands in central green ring (25 points).
-Bullseye - dart lands in central red spot (50 points).
-
-Visit - a hand of three darts.
+Single score - dart lands in black or cream section.  
+Double Score - dart lands in outer ring of segments.  
+Triple Score - dart lands in inner ring of segments.  
+Outer Bull - dart lands in central green ring (25 points).  
+Bullseye - dart lands in central red spot (50 points).  
+Visit - a hand of three darts.  
 Oche - the area infront of the dartboard where the current thrower stands.
 
 <!-- /*
